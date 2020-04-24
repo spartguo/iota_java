@@ -1,0 +1,2 @@
+FROM gcr.io/distroless/java@sha256:bb1c9179c2263733f235291998cb849d52fb730743125420cf4f97a362d6a6dd
+
